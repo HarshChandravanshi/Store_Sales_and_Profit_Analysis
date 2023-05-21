@@ -5,4 +5,4 @@ The dataset is downloaded from Kaggle.
 
 link - https://www.kaggle.com/datasets/vivek468/superstore-dataset-final 
 
-Dataset containing Information related to Sales, Profits and other interesting facts of a Superstore giant.  
+Dataset containing Information related to Sales, Profits and other interesting facts of a Superstore giant.   
